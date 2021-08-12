@@ -1,0 +1,26 @@
+{
+  "name": "en-fotos-vi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pemonition/en-fotos-vi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pemonition/en-fotos-vi/issues"
+  },
+  "homepage": "https://github.com/Pemonition/en-fotos-vi#readme",
+  "dependencies": {
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
